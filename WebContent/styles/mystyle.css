@@ -1,0 +1,64 @@
+.body{
+	
+	
+	 }
+.headerBar {
+border-bottom-width: thin;
+border-bottom-style: solid;
+position: fixed;
+top: 0px;
+width: 100%;
+border-top-color: #CCC;
+border-right-color: #CCC;
+border-bottom-color: #CCC;
+border-left-color: #CCC;
+background-color: #EFEFF1;
+z-index: 999;
+margin-right: auto;
+margin-left: auto;
+height: 90px;
+}
+.search{
+	float: none;
+left: 50px;
+height: 25px;
+position: relative;
+top: 17px;
+letter-spacing: 1px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+text-transform: capitalize;
+text-align: left;
+line-height: normal;
+font-size: 16px;
+width: 250px;
+border:thin groove #D6D6D6;
+margin-right: 100px;
+}
+.searchbutton
+{
+	
+	float: none;
+left: 0px;
+height: 30px;
+position: relative;
+top: 14px;
+	
+}
+.search1{
+	float: none;
+left: 10px;
+height: 25px;
+position: relative;
+top: 15px;
+letter-spacing: 1px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+
+text-align: left;
+line-height: normal;
+font-size: 16px;
+width: 100px;
+border:thin groove #D6D6D6;
+margin-right: 10px;
+}
